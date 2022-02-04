@@ -1,7 +1,6 @@
 Olá! Eu sou o Bruno Barbosa.
 
 - 🌱 Estou estudando HTML, CSS, JavaScript.
-- 💞️ Estou procurando colaborar na área de T.I.
 
 <div align="center">
   <a href="https://github.com/brunobarbosas">
